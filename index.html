@@ -699,23 +699,24 @@
     </svg>
     <span>SPIDER<em>-DEV</em></span>
   </a>
-  <ul class="nav-links">
-    <li><a onclick="scrollTo('home')">Home</a></li>
-    <li><a onclick="scrollTo('about')">About</a></li>
-    <li><a onclick="scrollTo('skills')">Skills</a></li>
-    <li><a onclick="scrollTo('projects')">Projects</a></li>
-    <li><a onclick="scrollTo('contact')">Contact</a></li>
+  </div>
+  <ul class="sp-nav-ul">
+    <li><a onclick="spGo('sp-home')">Home</a></li>
+    <li><a onclick="spGo('sp-about')">About</a></li>
+    <li><a onclick="spGo('sp-skills')">Skills</a></li>
+    <li><a onclick="spGo('sp-projects')">Projects</a></li>
+    <li><a onclick="spGo('sp-contact')">Contact</a></li>
   </ul>
-  <button class="hamburger" id="hamburger" onclick="toggleMenu()">
+  <button class="sp-ham" id="sp-ham" onclick="spToggle()">
     <span></span><span></span><span></span>
   </button>
-  <div id="mobile-menu">
+  <div id="sp-mob">
     <ul>
-      <li><a onclick="scrollTo('home');closeMenu()">Home</a></li>
-      <li><a onclick="scrollTo('about');closeMenu()">About</a></li>
-      <li><a onclick="scrollTo('skills');closeMenu()">Skills</a></li>
-      <li><a onclick="scrollTo('projects');closeMenu()">Projects</a></li>
-      <li><a onclick="scrollTo('contact');closeMenu()">Contact</a></li>
+      <li><a onclick="spGo('sp-home');spClose()">Home</a></li>
+      <li><a onclick="spGo('sp-about');spClose()">About</a></li>
+      <li><a onclick="spGo('sp-skills');spClose()">Skills</a></li>
+      <li><a onclick="spGo('sp-projects');spClose()">Projects</a></li>
+      <li><a onclick="spGo('sp-contact');spClose()">Contact</a></li>
     </ul>
   </div>
 </nav>
