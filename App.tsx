@@ -375,7 +375,7 @@ export function App() {
             </svg>
           </div>
           <div class="sp-pf">
-            <img src="https://raw.githubusercontent.com/Febriano-Doweng/Portofolio/main/Black%20White.png" alt="Febriano Doweng" onerror="this.style.display='none'"/>
+            <img src="Black White.png" alt="Febriano Doweng" onerror="this.style.display='none'"/>
             <div class="sp-po"></div>
           </div>
           <div class="sp-ab sp-ab-b">🎓 Semester 8</div>
