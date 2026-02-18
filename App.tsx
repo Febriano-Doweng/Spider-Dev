@@ -375,7 +375,7 @@ export function App() {
             </svg>
           </div>
           <div class="sp-pf">
-            <img src="Black White.png" alt="Febriano Doweng" onerror="this.style.display='none'"/>
+            <img src="Black White.png" alt="Febriano Doweng"/>
             <div class="sp-po"></div>
           </div>
           <div class="sp-ab sp-ab-b">🎓 Semester 8</div>
@@ -508,8 +508,8 @@ export function App() {
     <a onclick="spGo('sp-contact')">Contact</a>
   </div>
   <div class="sp-fdiv"></div>
-  <div class="sp-fcp">© 2025 Febriano Doweng · Dibuat dengan <span>❤️</span> dan banyak ☕ · <span>🕷️ Universitas Nusa Putra, Sukabumi</span></div>
-  <div class="sp-fbt">Built with HTML · CSS · JavaScript</div>
+  <div class="sp-fcp">© 2026 Febriano Doweng · Dibuat dengan <span>❤️</span> dan banyak ☕ · <span>🕷️ Universitas Nusa Putra, Sukabumi</span></div>
+  <div class="sp-fbt">Built with Type Script</div>
 </footer>
 
 <div class="sp-mov" id="sp-mov" onclick="spMClose(event)">
