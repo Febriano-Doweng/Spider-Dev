@@ -373,7 +373,7 @@ export function App() {
           </div>
           <div class="sp-pf">
             <img
-              src="https://drive.google.com/drive/folders/1BeAO2enfySkoeGDZdCjNeSDrdnOa3i8a?usp=drive_link"
+              src="https://drive.google.com/drive/folders/1BeAO2enfySkoeGDZdCjNeSDrdnOa3i8a"
               alt="Febriano Doweng"
               onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/Febriano-Doweng/Portofolio/main/Black%20White.png'"
             />
