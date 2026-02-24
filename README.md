@@ -1,4 +1,4 @@
-## Portfolio Spider-Dev
+## PORTFOLIO SPIDER-DEV 🎯
 
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
@@ -13,7 +13,7 @@
 | **Deskripsi** | Overview project portfolio |
 | **Fitur Utama** | Desain UI, Komponen, Interaktivitas |
 | **Teknologi** | HTML5, CSS3, JavaScript, SVG |
-| **Struktur File** | Organisasi kode HTML, CSS, JS |
+| **Struktur File** | img/Black White.png, README.md, index.html, package-lock.json, tsconfig.json, vite.config.ts|
 | **Color Palette** | Variabel warna dan platform colors |
 | **Responsive Breakpoints** | Desktop, Tablet, Mobile |
 | **Cara Penggunaan** | Download, Buka, Deploy |
@@ -21,14 +21,5 @@
 | **Animations** | Keyframes dan penggunaan |
 | **Navigation Structure** | Section IDs dan anchor links |
 | **Browser Support** | Kompatibilitas browser |
-| **Author** | Informasi developer |
+| **Author** | Bryan Tuakora |
 
-### 🎯 Fitur README
-
-- ✅ Badge teknologi (HTML5, CSS3, JavaScript)
-- ✅ Emoji untuk visual menarik
-- ✅ Code blocks untuk contoh customization
-- ✅ Tabel untuk informasi terstruktur
-- ✅ Links ke social media
-- ✅ Dokumentasi warna dan animasi
-- ✅ Struktur navigation yang jelas
